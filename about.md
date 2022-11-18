@@ -17,4 +17,4 @@ Previously I was employee #10 at [Nexthink](https://www.nexthink.com/) where I m
 
 Before Nexthink, I had created an [application for computer-aided surgery](https://ieeexplore.ieee.org/abstract/document/4167891) which was used at several hospitals, for which I earned my Ph.D. at the University of Bern in 2006. I am also an EPFL graduate, where I earned my M.Sc. in 2001.
 
-I've also done some teaching at the [HEIG-VD engineering school](https://reds.heig-vd.ch/) and I regularly speak at conferences and meetups. I also try to contribute to open source as much as possible and have created the OSS library [endless4s](https://endless4s.github.io/) for describing sharded and event sourced entities using tagless-final algebras. 
+I've also done some teaching at the [HEIG-VD engineering school](https://reds.heig-vd.ch/) and I regularly speak at conferences and meetups. I also try to contribute to open source as much as possible, and I have created the library [endless4s](https://endless4s.github.io/) for describing sharded and event sourced entities using tagless-final algebras. 
