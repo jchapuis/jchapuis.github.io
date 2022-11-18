@@ -21,7 +21,7 @@ author:
 url: "https://jonaschapuis.com" #
 baseurl:
 permalink: /:year/:month/:title/
-google_analytics: # leave it blank if not wish
+google_analytics: "G-TQS2MCHMGH"
 fb_appid:
 
 # Collection setting
