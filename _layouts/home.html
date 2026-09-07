@@ -3,6 +3,18 @@ layout: default
 home: true
 ---
 
+<h3 class="posts-item-note" aria-label="Talks">Talks</h3>
+{%- for talk in site.data.talks -%}
+<article class="post-item">
+  <span class="post-item-date">{{ talk.date | date: "%b %d, %Y" }}</span>
+  <h4 class="post-item-title">
+    <a href="{{ talk.url }}">{{ talk.title | escape }}</a> &middot; {{ talk.event | escape }}
+  </h4>
+</article>
+{%- endfor -%}
+
+<hr align=center; size=25px;/>
+
 <h3 class="posts-item-note" aria-label="Medium Posts">Medium Posts</h3>
 {%- for post in site.medium_posts -%}
 <article class="post-item">
